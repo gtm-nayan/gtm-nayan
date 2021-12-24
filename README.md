@@ -1,3 +1,31 @@
-<div align="center">
-  <img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40" />
-</div>
+👋 Hi, I’m Nayan
+---
+
+I write colorful text that flips tiny colorful switches.
+
+I break and make things. When I say "make", I don't mean make it look good but I can make it work relly well.
+
+## Programming Languages
+### Proficient
+- Python
+- Javascript
+
+### Still learning
+- Rust
+- Kotlin
+
+## Hobbies
+- Automation
+- EDM
+- Life Hacks
+- Getting banned from Discord Bots
+
+### My web dev preference
+Good ol HTML and CSS with Svelte.
+
+- 📫 gtmnayan@gmail.com, [Discord](https://discordapp.com/users/339731096793251854)
+
+<!---
+gtm-nayan/gtm-nayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
