@@ -1,5 +1,4 @@
-👋 Hi, I’m Nayan
----
+# 👋 Hi, I’m Nayan
 
 I write colorful text that flips tiny colorful switches.
 
