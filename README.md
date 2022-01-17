@@ -2,7 +2,7 @@
 
 I write colorful text that flips tiny colorful switches.
 
-I break and make things. When I say "make", I don't mean make it look good but I can make it work relly well.
+I break and make things. When I say "make", I don't mean make it look good but I can make it work really well.
 
 ## Programming Languages
 ### Proficient
