@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Nayan
+*(aliases: Cereal, Ciri, Cirilla whatever you find easiest to pronounce)*
 
-I write colorful text that flips tiny colorful switches. Copilot bender.
-
-I break and make things. When I say "make", I don't mean make it look good but I can make it work really well.
+I write colorful text that flips tiny colorful switches. Copilot bender who loves to break and make things. When I say "make", I don't mean make it look good but I can make it work really well.
 
 ## Programming Languages
 ### Proficient
