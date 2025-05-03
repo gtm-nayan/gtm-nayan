@@ -10,6 +10,6 @@ Ask me about build steps, minification, compression, binary encodings, HTTP/3, a
 ### Contacts
 
 Open to part time consulting work, reach out at
-- 📫 gtmnayan@gmail.com
+- 📫 hi@gtmnayan.com
 
 [^1]: functional as in the program functions, the paradigm is okay too... i guess
